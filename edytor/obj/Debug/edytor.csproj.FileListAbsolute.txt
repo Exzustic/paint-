@@ -1,0 +1,24 @@
+C:\other\visual studio saves\edytor\edytor\bin\Debug\edytor.exe.config
+C:\other\visual studio saves\edytor\edytor\bin\Debug\edytor.exe
+C:\other\visual studio saves\edytor\edytor\bin\Debug\edytor.pdb
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.csproj.AssemblyReference.cache
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.csproj.SuggestedBindingRedirects.cache
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.Form1.resources
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.Properties.Resources.resources
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.csproj.GenerateResource.cache
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.csproj.CoreCompileInputs.cache
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.exe
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.pdb
+C:\other\visual studio saves\edytor\edytor\obj\Debug\edytor.Resource1.resources
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\bin\Debug\edytor.exe.config
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\bin\Debug\edytor.exe
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\bin\Debug\edytor.pdb
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.csproj.AssemblyReference.cache
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.csproj.SuggestedBindingRedirects.cache
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.Form1.resources
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.Properties.Resources.resources
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.Resource1.resources
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.csproj.GenerateResource.cache
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.csproj.CoreCompileInputs.cache
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.exe
+C:\Users\gleb5\OneDrive\Рабочий стол\edytor\edytor\obj\Debug\edytor.pdb
